@@ -1,0 +1,40 @@
+#markets
+{
+    margin-top: 150px;
+}
+
+table
+{
+    color: #636363;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+td
+{
+    padding: 20px;
+    border: 1.5px solid #a3a3a3;
+}
+
+td small
+{
+    display: block;
+}
+
+.red
+{
+  color: #b81004;  
+}
+
+.yellow
+{
+    color: #ffcb2e;
+}
+
+.green
+{
+    color: green;
+}
