@@ -1,0 +1,74 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Baloo Da 2', cursive;
+}
+
+/*Header*/
+header
+{
+    height: 100px;
+    width: 100%;
+    background-color: lightgrey;
+    border-bottom: solid 10px #c42700;
+    font-weight: bold;
+}
+
+header img
+{
+    width: 300px;
+    margin-top: 70px;
+    margin-left: 45%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+}
+
+/*Content*/
+#content
+{
+    width: 70%;
+    margin: 20px auto;
+}
+
+
+/*Warteschlangenstand*/
+#status
+{
+    height: 300px;
+}
+
+#status p
+{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+/*Produkte*/
+#products
+{
+    height: 300px;
+}
+
+#products p
+{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+/*Footer*/
+footer
+{
+    height: 25px;
+    background-color: lightgrey;
+}
+
+footer li
+{
+    display: inline-block;
+    margin-left: 30px;
+}
